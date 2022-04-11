@@ -1,7 +1,7 @@
 # Hi there, I'm Paweł Jaśkowiec :wave:
 
 
-### Currently, I am a Computer Science student at the Faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology. :man_student:
+### Currently, I am a Computer Science Student at the Faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology. :man_student:
 <br />
 
 
