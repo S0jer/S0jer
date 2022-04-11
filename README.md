@@ -2,7 +2,7 @@
 
 
 ### Currently, I am a student at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST. :man_student:
-<br \>
+<br />
 
 
 ## Languages and Tools I worked with :fire:
