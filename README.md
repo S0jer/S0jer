@@ -1,18 +1,14 @@
-## Hi there, I'm Paweł Jaśkowiec 
+# Hi there, I'm Paweł Jaśkowiec 
 
 
-# Currently, I am a student at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST.
-
-<br />
-<br />
+### Currently, I am a student at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST.
 
 
-### Languages and Tools:
+## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0jer&exclude_repo=github-readme-stats,S0jer.github.io)](https://github.com/S0jer/github-readme-stats)
 
-<br />
 
-### Stats
+## Stats
 
-[![S0jer's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0jer)](https://github.com/S0jer/github-readme-stats)
+[![S0jer's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0jer&show_icons=true&theme=radical)](https://github.com/S0jer/github-readme-stats)
