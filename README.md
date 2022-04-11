@@ -6,7 +6,7 @@
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0jer&exclude_repo=github-readme-stats,S0jer.github.io)](https://github.com/S0jer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0jer)](https://github.com/S0jer/github-readme-stats)
 
 
 ## Stats
