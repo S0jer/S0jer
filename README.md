@@ -19,14 +19,14 @@
 <a href="https://www.jetbrains.com/help/idea/gradle.html?source=google&medium=cpc&campaign=9731172174&gclid=CjwKCAjwo8-SBhAlEiwAopc9W1ioJh9rqQc_GVXt48ooaua5Ge-piQX6qYC_wNTT0dtr9XWgOiRH7BoChOsQAvD_BwE" title="Gradle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="30px" height="30px"></a>
 
 
-## Socials :nerd_face:
+## Socials :relaxed:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/S0jer)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pja%C5%9Bkowiec/?locale=en_US) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009697993592) 
 
 
-## Languages you can find in my repositories :relaxed:
+## Languages you can find in my repositories :nerd_face:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0jer)](https://github.com/S0jer/github-readme-stats)
 
