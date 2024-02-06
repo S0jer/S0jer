@@ -22,7 +22,6 @@
 <a href="https://github.com/" title="Github"><img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="30px" height="30px"></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="30px" height="30px"></a>
 <a href="https://www.jetbrains.com/idea/" title="InteliJ Idea"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="InteliJ Idea" width="30px" height="30px"></a>
-<a href="https://www.jetbrains.com/help/idea/gradle.html?source=google&medium=cpc&campaign=9731172174&gclid=CjwKCAjwo8-SBhAlEiwAopc9W1ioJh9rqQc_GVXt48ooaua5Ge-piQX6qYC_wNTT0dtr9XWgOiRH7BoChOsQAvD_BwE" title="Gradle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="30px" height="30px"></a>
 
 
 ## Socials :relaxed:
